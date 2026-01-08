@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=m-atef&label=Profile%20views&color=0e75b6&style=flat" alt="m-atef" /> 
-<img src="https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https://api.countapi.xyz/hit/m-atef.m-atef/readme"/> 
-</p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-atef" alt="m-atef" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -121,11 +115,3 @@
 </a> 
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-atef&show_icons=true&locale=en&layout=compact" alt="m-atef" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=m-atef&show_icons=true&locale=en" alt="m-atef" />
-</p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-atef&" alt="m-atef" /></p>
