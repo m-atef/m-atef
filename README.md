@@ -1,117 +1,220 @@
-<h1 align="center">Hi 👋, I'm Mohammed</h1>
-<h3 align="center">A passionate full-stack developer</h3>
+# 👋 Hey, I’m Mohammed Atef
 
+```csharp
+public sealed class MohammedAtef : SeniorSoftwareDeveloper
+{
+    public string[] MainStack => [".NET", "ASP.NET Core", "ASP.NET MVC", "Razor Pages", "WebForms", "WPF", "EF Core", "Dapper", "SQL Server", "Oracle", "PostgreSQL", "MySQL"];
+    public string[] SpecialPowers => ["Integrations", "Background Jobs", "Akka.NET Actors", "Quartz.NET", "Industrial Automation", "Installers", "Debugging Weird Production Issues"];
+    public bool DrinksCoffee => true;
+    public bool TrustsUndefinedRequirements => false;
+}
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhamad-atef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhamad-atef" height="30" width="40" /></a>
-<a href="https://www.behance.net/m-atef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="m-atef" height="30" width="40" /></a>
-</p>
+I’m a **Senior Software Developer** who builds enterprise systems, integrations, portals, automation tools, and the occasional “why is this only failing on the server?” investigation.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-</a> 
-<a href="https://angular.io" target="_blank" rel="noreferrer"> 
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> 
-</a> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-</a> 
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
-</a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-</a>
-<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
-  <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-</a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-</a>
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-</a>
-<a href="https://www.elastic.co" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> 
-</a>
-<a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
-</a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-</a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-</a>
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-</a> 
-<a href="https://grafana.com" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> 
-</a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-</a> 
-<a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
-</a> 
-<a href="https://materializecss.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> 
-</a> 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-</a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-</a>
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
-</a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-</a> 
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
-</a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-</a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-</a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-</a> 
-<a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> 
-</a> 
-<a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> 
-</a> 
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-</a> 
-</p>
+Most of my work lives somewhere between:
+
+- 🏢 **Enterprise web applications**
+- 🔌 **ERP / third-party integrations**
+- 🚚 **GPS, routing, delivery, and dispatch systems**
+- 🧠 **Background processing and actor-based workflows**
+- 🏭 **PLC / hardware communication**
+- 🗄️ **SQL-heavy business systems**
+- 🛠️ **Legacy system modernization**
+- ☕ **Coffee-powered debugging sessions**
+
+---
+
+## ⚙️ Tech Stack I Actually Use
+
+### Backend & Web
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![Razor Pages](https://img.shields.io/badge/Razor%20Pages-68217A?style=for-the-badge&logo=dotnet&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET WebForms](https://img.shields.io/badge/ASP.NET%20WebForms-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![DevExpress](https://img.shields.io/badge/DevExpress-FF7200?style=for-the-badge&logo=devexpress&logoColor=white)
+![Telerik](https://img.shields.io/badge/Telerik-5CE500?style=for-the-badge&logo=progress&logoColor=white)
+
+### Data & Persistence
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Dapper](https://img.shields.io/badge/Dapper-0D1117?style=for-the-badge&logo=databricks&logoColor=white)
+
+### Background Jobs, Actors & Services
+
+![Hangfire](https://img.shields.io/badge/Hangfire-1B1F23?style=for-the-badge&logo=firefox&logoColor=orange)
+![Akka.NET](https://img.shields.io/badge/Akka.NET-0D1117?style=for-the-badge&logo=actigraph&logoColor=white)
+![Windows Service](https://img.shields.io/badge/Worker%20Services-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+![Quartz.NET](https://img.shields.io/badge/Quartz.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### Frontend & UI
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Syncfusion](https://img.shields.io/badge/Syncfusion-FF4800?style=for-the-badge&logo=syncfusion&logoColor=white)
+
+![WPF UI](https://img.shields.io/badge/WPF%20UI-0078D7?style=for-the-badge&logo=windows&logoColor=white)
+
+### Tools, Logging & Deployment
+
+![NLog](https://img.shields.io/badge/NLog-0D1117?style=for-the-badge&logo=readthedocs&logoColor=white)
+![Seq](https://img.shields.io/badge/Seq-3E4E88?style=for-the-badge&logo=buffer&logoColor=white)
+![IIS](https://img.shields.io/badge/IIS-0078D7?style=for-the-badge&logo=windows&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+
+![Serilog](https://img.shields.io/badge/Serilog-1B1F23?style=for-the-badge&logo=readthedocs&logoColor=white)
+![InstallShield](https://img.shields.io/badge/InstallShield-00599C?style=for-the-badge&logo=windows&logoColor=white)
+![Inno%20Setup](https://img.shields.io/badge/Inno%20Setup-0078D7?style=for-the-badge&logo=windows&logoColor=white)
+![Advanced%20Installer](https://img.shields.io/badge/Advanced%20Installer-2B579A?style=for-the-badge&logo=windows&logoColor=white)
+
+---
+
+## 🧠 Areas I Enjoy Working On
+
+### 🔄 Integration Architecture
+
+I like building systems that connect other systems that were probably never designed to be connected.
+
+---
+
+### 🎭 Actor-Based Systems
+
+I use **Akka.NET** when a system needs clear responsibility boundaries, long-running coordination, stateful background work, or a clean way to say:
+
+> “You handle this. Tell me when you’re done. Don’t block the whole application.”
+
+---
+
+### 🏭 Industrial & Hardware Communication
+
+Sometimes software talks to browsers.
+
+Sometimes it talks to PLCs.
+
+Sometimes the PLC talks back.
+
+Sometimes the PLC says nothing and you spend 3 hours checking rack, slot, byte, bit, cable, firewall, and your life choices.
+
+I’ve worked with:
+
+- Siemens PLC communication
+- Snap7 / Sharp7
+- Modbus
+- Hardware monitoring
+- WinForms kiosk-style applications
+- Real-time state tracking
+
+---
+
+### 🗄️ Databases & Query Performance
+
+I like SQL.
+
+Not “select everything and filter in memory” SQL.
+
+Actual SQL.
+
+The kind with:
+
+- Proper indexes
+- Paging
+- DTO projections
+- Dapper where it matters
+- EF Core where it fits
+- Query plans when things get suspicious
+- No distributed transactions unless absolutely forced by dark magic
+
+---
+
+## 🧩 My Development Philosophy
+
+```text
+Readable code > clever code
+Logs before panic
+Explicit contracts before assumptions
+Small services before god services
+Database indexes before blaming the server
+Retry policies before manual reprocessing
+Documentation before “ask Ahmed”
+```
+
+I prefer software that is:
+
+- ✅ Maintainable
+- ✅ Observable
+- ✅ Testable where it matters
+- ✅ Fast enough for real workloads
+- ✅ Boring in production
+- ✅ Clear enough for the next developer, who may be future me at 2 AM
+
+---
+
+## 📦 NuGet Packages I Published
+
+I also publish .NET packages on NuGet, because apparently I enjoy creating reusable libraries and then becoming responsible for them forever.
+
+> **14K+ total downloads** across my public NuGet packages  
+> Profile: [nuget.org/profiles/mohammed_atef](https://www.nuget.org/profiles/mohammed_atef)
+
+| Package | What It Does | Latest Version | Downloads |
+|---|---|---:|---:|
+| [Tafqeet](https://www.nuget.org/packages/Tafqeet) | Converts currency digits into written Arabic words. Useful for invoices, financial documents, ERP reports, contracts, and anywhere numbers must become proper Arabic text instead of suspicious decimals. Supports currencies such as EGP, KWD, QAR, SDG, USD, EUR, SAR, and more. | `2.1.2` | 8.6K+ |
+| [ExecutionResult](https://www.nuget.org/packages/ExecutionResult) | A lightweight helper library for returning structured operation results instead of throwing exceptions everywhere or returning five unrelated values from a method like it owes you money. | `2.1.0` | 5.7K+ |
+
+---
+
+## 📌 A Few Things About Me
+
+- I care about architecture, but I also care about shipping.
+- I like clean solutions, but I respect real-world constraints.
+- I can work with legacy systems without immediately suggesting a full rewrite.
+- I believe logs should answer questions, not create new ones.
+- I think every integration needs a dead-letter state.
+- I do not trust a process that has no retry strategy.
+- I strongly believe “works locally” is not a deployment plan.
+
+---
+
+## 🐛 My Relationship with Bugs
+
+Bugs and I have a professional relationship.
+
+They appear unexpectedly.
+
+I investigate.
+
+They deny everything.
+
+I add logging.
+
+They confess.
+
+---
+
+## 🧾 Final Thought
+
+> I build software that connects systems, moves data, tracks status, automates work, and occasionally convinces legacy applications to behave like modern citizens.
+
+Thanks for visiting my profile.
+
+And remember:
+
+```sql
+SELECT *
+FROM Problems
+WHERE Status = 'Solved'
+ORDER BY CoffeeConsumed DESC;
+```
 
